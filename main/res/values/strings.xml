@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My zooapp</string>
+
+    <string name="button_info">Animal Information</string>
+    <string name="contact">Contact Info</string>
+
+    <string name="elefadastitle">"Elephant"</string>
+    <string name="rinokerostitle">Rhinoceros</string>
+    <string name="pigouinostitle">Pengum</string>
+
+    <string name="send">Send</string>
+
+    <string name="chat_button">Let s chat</string>
+    <string name="bluetooth">Bluetooth Scan</string>
+    <string name="scan_button">Scan</string>
+    <string name="stop_button">Stop</string>
+    <string name="location_button">Location Test</string>
+
+
+    <string name="about">
+    <![CDATA[
+        Διεύθυνση Θέση Γιαλού, Σπάτα 19004 \n
+        Tel: (+30)210 6634725, (+30)210 6634724\n
+        Fax: 210 6634726\n  ]]>
+    </string>
+
+    <string name="elefadasinfo">lephants are large mammals of the Elephant family and of the Provoceidae class. Traditionally, two species have been identified, the African elephant and the Asian elephant, although some evidence suggests that African savanna elephants and African forest elephants are separate species (L. africana - L. africanis and L. cyclotis - L. Circuit respectively). Elephants are scattered throughout sub-Saharan Africa, South Asia and Southeast Asia. The Elephants are the only surviving family of Provoids; other, now extinct, families include the Mammoths and the Mastodonts. Male African elephants are the largest poultry survivors and can reach 4 meters in height and weigh 7000 kg. All elephants have many special features of which the most remarkable is a large perspective that is used for many purposes, especially in breathing, in raising water and in capturing objects. Their chisels are developed into holes, which serve as weapons and as tools for moving objects and learning. Large elephant ear flaps help control their body temperature. Their feet, resembling powders, can carry their heavy weight. African elephants have larger ears and concave backs while Asian elephants have smaller ears and curved or flat backs.  Elephants are vegetarians and can be found in various homes such as savannas, forests, remnants and canyons. They prefer to stay near water. They are considered to be essential species because of their influence on their environments. Other animals tend to keep their distance, and ancestors such as lions, tigers, bullets and wild dogs usually target only young elephants. Females tend to live in family groups, which may consist of a female with small or several related females with their young. The teams are headed by one person usually of the largest gender. Elephants have a fission-fusion society in which multiple family groups come together for socialization. Males leave their families when they reach puberty and can live alone or with other males. Adult males mainly interact with family groups when they are looking for a couple and enter a state of increased testosterone and aggression known as mastectomy, which helps them gain ownership and reproductive success. Toddlers are the focus of family groups and are based on mothers until the third year of their age. Elephants can live up to 70 years in nature. They communicate with contacts, visions, smells and sounds; elephants use sub-seismic and seismic communication over long distances. The intelligence of elephants has been compared to that of primates and cetaceans. They seem to have self-affirmation and show enthusiasm for older or deceased individuals of their kind.</string>
+    <string name="rinokerosinfo">Rhinoceros or Rhinoceros is called every member of the Rhinoceros family. It is a large Asian and African herbivore mammal with one or two horns on its upper tip. The rhinoceros has an almost hairless body with legs close and thick looking like an elephant and a hippo.          The two-horned rhinoceros, one behind the other, is also called African or Black and is the smallest of the species with a length of 3-3,75 meters, a height of 1.5 meters and a weight of 2 tons. The longest of the 2 horns reaches 1.30 meters. It is the most aggressive of its kind, lonely and fearless, and it attacks when its privacy is disturbed. The broadleaf, better known as white, is the largest of its kind, measuring 4 meters long, 2 meters high and weighing 3 tons. He also has two horns, but his lip is wide, unlike the \"black\" rhinoceros that is pointed with a proboscis, and he is found in the regions of South Africa. Characterized as more social, lives in small groups and is rarely aggressive. The color of the skin of both species is grayish and not related to their name. A characteristic of African rhinos is their coexistence with a species of bird, the buffalo, which feed on skin parasites.</string>
+    <string name="pigouinosinfo"> Ο Αυτοκρατορικός πιγκουίνος είναι θαλάσσιο πτηνό της οικογενείας των Απτηνοδυτιδών (πιγκουίνων), της οποίας αποτελεί το μεγαλύτερο μέλος. Η επιστημονική ονομασία του είδους είναι Aptynodetes forsteri και δεν περιλαμβάνει υποείδη.[1]
+
+        Ο αυτοκρατορικός πιγκουίνος είναι τυπικός εκπρόσωπος της κατηγορίας στην οποία εντάσσονται πτηνά ανίκανα να επιτελέσουν τη λειτουργία της πτήσης (flightless birds), κάτι που αποτυπώνεται και στην επιστημονική ονομασία του γένους (βλ. Ονοματολογία). Είναι ξεχωριστό -και θαυμαστό- είδος από κάθε άποψη, με σωματικές ικανότητες και φυσιολογία που το καθιστούν ιδιαίτερο μέσα στο ζωικό βασίλειο. Πέραν τούτου, αποτελεί υπόδειγμα κοινωνικότητας και εγκαρτέρησης στα δρώμενα των αποικιών αναπαραγωγής του, γεγονός που έχει καταγραφεί κατά τις τελευταίες δεκαετίες στον κινηματογράφο και στα μέσα κοινωνικής δικτύωσης, είτε υπό τη μορφή ντοκιμαντέρ είτε ως μυθοπλασία (κινούμενα σχέδια, κ.λ.π.)
+</string>
+
+
+</resources>
